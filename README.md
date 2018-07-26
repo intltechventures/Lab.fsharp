@@ -22,6 +22,9 @@ Twitter Feeds
 
 
 Interesting Articles
+* 2018
+  * F# 4.5 Preview
+    * https://blogs.msdn.microsoft.com/dotnet/2018/07/26/announcing-f-4-5-preview/
 * 2017
   * https://blogs.msdn.microsoft.com/dotnet/2017/05/31/why-you-should-use-f/
 
